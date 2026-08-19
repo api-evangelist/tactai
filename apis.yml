@@ -34,7 +34,7 @@ x-status: acquired
 x-acquired-by: aktana
 x-acquired-date: '2023-11'
 x-note: Domain parked for sale via Afternic; no live product or API surface as of enrichment.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
