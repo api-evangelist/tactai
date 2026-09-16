@@ -23,16 +23,14 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/tactai.png
 name: Tact.ai
-description: 'Tact.ai was a Redwood City, California conversational-AI and field-engagement
-  company founded by Chuck Ganapathi that built an AI sales assistant ("Tact Assistant")
-  unifying CRM, email, and calendar data into a voice- and chat-driven interface for
-  enterprise sales teams, later concentrating on the life sciences vertical. It was
-  backed by Accel, Redpoint Ventures, Upfront Ventures, Microsoft''s M12, and Salesforce
-  Ventures. In November 2023 its field-engagement and conversational-AI technology was
-  acquired by Aktana and the standalone company wound down. The tact.ai domain no longer
-  hosts a product: it resolves to an Afternic domain-for-sale parking page (nameservers
-  ns1/ns2.afternic.com), and the company exposes no public developer API, documentation,
-  or developer portal to enrich.'
+description: 'Tact.ai was a Redwood City, California conversational-AI and field-engagement company founded
+  by Chuck Ganapathi that built an AI sales assistant ("Tact Assistant") unifying CRM, email, and calendar
+  data into a voice- and chat-driven interface for enterprise sales teams, later concentrating on the
+  life sciences vertical. It was backed by Accel, Redpoint Ventures, Upfront Ventures, Microsoft''s M12,
+  and Salesforce Ventures. In November 2023 its field-engagement and conversational-AI technology was
+  acquired by Aktana and the standalone company wound down. The tact.ai domain no longer hosts a product:
+  it resolves to an Afternic domain-for-sale parking page (nameservers ns1/ns2.afternic.com), and the
+  company exposes no public developer API, documentation, or developer portal to enrich.'
 url: https://raw.githubusercontent.com/api-evangelist/tactai/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -41,13 +39,13 @@ x-backed-by:
 - redpoint-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
-x-status: acquired
+x-status: defunct
 x-acquired-by: aktana
-x-acquired-date: '2023-11'
+x-acquired-date: 2023-11
 x-note: Domain parked for sale via Afternic; no live product or API surface as of enrichment.
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-21'
+modified: '2026-09-15'
 tags:
 - Company
 - Enterprise
